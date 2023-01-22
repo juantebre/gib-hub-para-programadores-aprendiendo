@@ -1,2 +1,5 @@
-# gib-hub-para-programadores-aprendiendo
-Esta es una prueba de repositorio del curso de linkeding Learning. 
+Bienvenido al curso de Github para desarrolladores
+
+Aprendiendo de Github
+
+[Visita mi blog] (www.juantebre.com)
